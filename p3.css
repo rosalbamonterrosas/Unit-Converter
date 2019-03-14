@@ -1,0 +1,45 @@
+#initial_value {
+    margin-right: 4%;
+}
+
+#to {
+    margin-top: 4%;
+}
+
+#final_unit {
+    margin-right: 25%;
+}
+
+#result {
+    margin-top: 4%;
+}
+
+@media (min-width:768px){
+    .masthead {
+        width: 50rem;
+    }
+}
+
+.masthead .masthead-bg {
+    background-color:rgba(232, 125, 174,0.9);
+}
+
+.overlay{
+    background-color:#ffffff
+}
+
+.btn-secondary{
+    background-color:cornflowerblue;
+    border-color:cornflowerblue;
+}
+
+.btn-secondary:hover{
+    background-color:blue;
+    border-color:blue;
+}
+
+.footer {
+    margin-top: auto;
+    margin-right: auto;
+    margin-left: 15%;
+}
